@@ -6,6 +6,7 @@ Please head over to the [assignment webpage](https://www.cse.iitb.ac.in/~shivara
 
 The state of the car is described using two variables `(x, v)` where `x` is the position of the car in the one-dimensional track and `v` is the velocity.
 
+# Usage
 The script `mountain_car.py` has the following two arguments:
 1. `--task`: the options are `T1/T2`
 2. `--train`: the options are 0/1 where 1 is for training the weights, 0 is for using the trained weights
